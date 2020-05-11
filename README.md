@@ -22,3 +22,5 @@ Turn a profit from reselling the recyclables while providing monetary rewards to
 - Paul
 - Eduardo
 - Frank
+- Leo
+- Kathi

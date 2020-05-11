@@ -18,7 +18,7 @@ Turn a profit from reselling the recyclables while providing monetary rewards to
 
 
 # Credit 
-#Silvia 
-#Paul
-#Eduardo
-#Frank
+# Silvia 
+# Paul
+# Eduardo
+# Frank

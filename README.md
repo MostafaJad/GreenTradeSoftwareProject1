@@ -9,16 +9,16 @@ Turn a profit from reselling the recyclables while providing monetary rewards to
 
 
 # Instruction 
--npm i
--Expo start
--SignUp
+- npm i.
+- Expo start
+- SignUp
 - start earning points NOW
 
 # Note you will need to create your on api and configration to be able to run .. soon I will upload the full version 
 
 
 # Credit 
-# Silvia 
-# Paul
-# Eduardo
-# Frank
+- Silvia 
+- Paul
+- Eduardo
+- Frank

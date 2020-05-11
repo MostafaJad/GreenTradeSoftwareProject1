@@ -8,7 +8,7 @@ Gain a steady and growing user base to use the application on a weekly or monthl
 Turn a profit from reselling the recyclables while providing monetary rewards to the end user
 
 
-#Instruction 
+# Instruction 
 -npm i
 -Expo start
 -SignUp
@@ -17,8 +17,8 @@ Turn a profit from reselling the recyclables while providing monetary rewards to
 # Note you will need to create your on api and configration to be able to run .. soon I will upload the full version 
 
 
-#Credit 
-Silvia 
-Paul
-Eduardo
-Frank
+# Credit 
+#Silvia 
+#Paul
+#Eduardo
+#Frank

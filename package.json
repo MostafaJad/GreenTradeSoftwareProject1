@@ -19,7 +19,7 @@
     "expo-image-picker": "^7.0.0",
     "expo-location": "^6.0.0",
     "expo-module-scripts": "^1.1.1",
-    "firebase": "^7.2.1",
+    "firebase": "^10.9.0",
     "inspector": "^0.5.0",
     "native-base": "^2.13.8",
     "react": "16.8.3",
